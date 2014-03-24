@@ -1,0 +1,27 @@
+html{
+	background-color: navy;
+}
+
+div#content{
+	font-family: tahoma, sans-sarif;
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	text-align: center;
+	height: 15%;
+	width: 20%;
+	padding: 10px;
+	background-color: #EEEEEE;
+	border-radius: 3px;
+	border-color: black;
+	border: solid 2px black;
+	box-shadow:	5px 5px 3px #1C1C1C;
+}
+
+h2{
+	font-family: tahoma, sans-sarif;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
